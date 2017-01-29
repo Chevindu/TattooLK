@@ -136,7 +136,7 @@ a {
  ------------------------------ */
  
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Fredericka the Great', cursive;
 	font-weight: normal;
 	color: #272727;
 }
@@ -149,6 +149,7 @@ h1 {
 	margin-bottom: 20px;
 	font-style: normal;
 	font-weight: 300;
+	text-shadow: 2px 2px 15px #FFFFFF;
 }
 h1.lessmar {
 	margin-bottom: 10px;
