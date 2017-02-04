@@ -2254,7 +2254,7 @@ a.read-more.cyan:hover {
 	z-index: 999;
 }
 #header2 {
-	position: relative;
+	position: fixed;
 	background: none;
 	padding: 0;
 	width: 100%;
