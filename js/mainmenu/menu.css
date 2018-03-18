@@ -1,7 +1,7 @@
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- * 
+ *
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav, .yamm .collapse, .yamm .dropup, .yamm .dropdown {
@@ -328,7 +328,7 @@ ul.nav.dark2>li>a:hover.active {
 
 /* dark 3
  ------------------------------ */
- 
+
 ul.nav.dark3>li>a.active {
 	color: #fff;
 	font-family: 'Dosis', sans-serif;
@@ -736,6 +736,7 @@ ul.nav.dark2>li>a:hover.active {
 }
 .navbar-brand {
 	padding: 12px 0 0;
+	width: 84%;
 }
 
 }
@@ -753,6 +754,8 @@ ul.nav.dark2>li>a:hover.active {
 }
 .navbar-brand img {
 	width: 70%;
+	margin: auto;
+	padding-top: 5px;
 }
 
 
@@ -966,5 +969,3 @@ pre {
 
 
 }
-
-
