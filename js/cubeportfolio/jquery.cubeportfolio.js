@@ -1402,7 +1402,7 @@
         /**
          *  Default filter for plugin
          *  Option available only for `layoutMode: 'grid'`
-         *  Values: strings that represent the filter name(ex: *, .logo, .web-design, .design)
+         *  Values: strings that represent the filter name(ex: *, .logo, .black, .design)
          */
         defaultFilter: '*',
 

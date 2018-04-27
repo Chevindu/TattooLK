@@ -123,11 +123,12 @@ a:hover {
 	text-decoration: none;
 }
 a:focus, a:hover {
-	color: #5a5959;
+	color: #161616;
+	text-shadow: 1px 1px 3px black;
 }
 a {
 	outline: medium none !important;
-	color: #727272;
+	color: #161616;
 }
 .uppercase {
 	text-transform: uppercase;

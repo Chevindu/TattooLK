@@ -18,28 +18,28 @@ Design and Developed by: Codelayers
 	3. Construction
 	4. grayscale
 	5. Blog 1
-	6. Cafe	
-	7. Wedding	
+	6. Cafe
+	7. Wedding
 	8. Fashion
-	9. Mechanic	
-	10.Hairsaloon	
-	11 Transport	
+	9. Mechanic
+	10.Hairsaloon
+	11 Transport
 	12. School
 	13. Portfolio
 	14. Realestate
 	15. Beauty
 	16. Law
-	17. Shop	
-	18. Agency	
+	17. Shop
+	18. Agency
 	19. charity
-	20. University	
-	21.Personal	
+	20. University
+	21.Personal
 	22 Medical
 	23. Creative
 	24. Hosting
 	25. Corporate innerpage styles
 
-	
+
 ======================================
 [ END CSS TABLE CONTENT ]
 ======================================
@@ -53,7 +53,7 @@ Gym layout Styles
 ================================================*/
 
 /* =========== section top and bottom shapes ============= */
-			
+
 .section {
 	position: relative;
 	width: 100%;
@@ -324,7 +324,7 @@ Gym layout Styles
 
 /* Feature Box24
  ------------------------------ */
- 
+
 .feature-box24 {
 	position: relative;
 	width: 100%;
@@ -364,7 +364,7 @@ Gym layout Styles
 	color: #fff;
 }
 /* Feature Box25
- ------------------------------ */ 
+ ------------------------------ */
 .feature-box25 {
 	width: 100%;
 	float: left;
@@ -388,7 +388,7 @@ Gym layout Styles
 	border-bottom: none;
 }
 /* Feature Box26
- ------------------------------ */ 
+ ------------------------------ */
 .feature-box26 {
 	width: 100%;
 	float: left;
@@ -414,7 +414,7 @@ Gym layout Styles
 	border: 1px solid #e4e4e4;
 }
 /* Feature Box27
- ------------------------------ */ 
+ ------------------------------ */
 .feature-box27 {
 	position: relative;
 	width: 100%;
@@ -423,7 +423,7 @@ Gym layout Styles
 }
 /* Price Table 4
  -----------------------------------------------*/
- 
+
 .pricetable-holder4 {
 	width: 100%;
 	padding: 10px;
@@ -541,9 +541,9 @@ Gym layout Styles
 }
 /* Gym Timetable
  ------------------------------ */
- 
+
 /* Feature Box28
- ------------------------------ */ 
+ ------------------------------ */
 .feature-box28 {
 	width: 100%;
 	float: left;
@@ -710,7 +710,7 @@ Restaurant layout Styles
 	background-position: center;
 	z-index: 1;
 }
-/*============ blog styles ============ */	
+/*============ blog styles ============ */
 
 .blog-holder7 {
 	width: 100%;
@@ -719,7 +719,7 @@ Restaurant layout Styles
 	transition: all 0.3s ease-out 0s;
 	background-color: #fff;
 }
-/*============ Reservation Form ============ */	
+/*============ Reservation Form ============ */
 
 .res-form-holder {
 	width: 100%;
@@ -840,7 +840,7 @@ Construction layout Styles
 }
 /*============ Team Section ============ */
 /* Team Style 5
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder5 {
 	width: 100%;
 	padding: 0px;
@@ -885,7 +885,7 @@ Construction layout Styles
 .team-holder5:hover .image-holder .hover-box {
 	top: 135px;
 }
-/*============ blog styles ============ */	
+/*============ blog styles ============ */
 
 .blog-holder6 {
 	width: 100%;
@@ -1027,7 +1027,7 @@ grayscale layout Styles
 }
 /* Feature Box36
  ------------------------------ */
- 
+
 .feature-box36 {
 	position: relative;
 	float: left;
@@ -1053,7 +1053,7 @@ grayscale layout Styles
 }
 /* Feature Box37
  ------------------------------ */
- 
+
 .feature-box37 {
 	width: 100%;
 	padding: 60px;
@@ -1066,7 +1066,7 @@ grayscale layout Styles
 }
 /* Feature Box38
  ------------------------------ */
- 
+
 .feature-box38 {
 	width: 100%;
 	position: relative;
@@ -1124,7 +1124,7 @@ grayscale layout Styles
 }
 /* Feature Box41
  ------------------------------ */
- 
+
 .feature-box41 {
 	width: 100%;
 	float: left;
@@ -1160,7 +1160,7 @@ grayscale layout Styles
 }
 /* Feature Box43
  ------------------------------ */
- 
+
 .feature-box43 {
 	position: relative;
 	width: 100%;
@@ -1241,7 +1241,7 @@ grayscale layout Styles
 }
 /*============ Team Section ============ */
 /* Team Style 6
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder6 {
 	width: 100%;
 	padding: 0px;
@@ -1317,7 +1317,7 @@ grayscale layout Styles
 	right: 0px;
 }
 /* Team Style 7
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder7 {
 	overflow: hidden;
 	max-height: 600px;
@@ -1360,7 +1360,7 @@ grayscale layout Styles
 }
 /* Team Style 8
  ------------------------------ */
- 
+
 .team-holder8 {
 	padding: 0px;
 }
@@ -1398,7 +1398,7 @@ grayscale layout Styles
 	color: #727272;
 }
 /* Team Style 9
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder9 {
 	width: 100%;
 	padding: 0px;
@@ -1429,7 +1429,7 @@ grayscale layout Styles
 }
 /* Team Holder 10
  -----------------------------------------------*/
- 
+
 .team-holder10 {
 	width: 100%;
 	padding: 0px;
@@ -1448,7 +1448,7 @@ grayscale layout Styles
 	background-color: #161616;
 }
 /* Team Style 11
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder11 {
 	width: 100%;
 	padding: 0px;
@@ -1490,7 +1490,7 @@ grayscale layout Styles
 .team-holder11:hover .social-icons-1 li a, .team-holder11.active .social-icons-1 li a {
 	color: #161616;
 }
-/*============ blog styles ============ */	
+/*============ blog styles ============ */
 
 .post-date-box2 {
 	width: 90px;
@@ -1522,7 +1522,7 @@ grayscale layout Styles
 	color: #fff;
 }
 /* blog holder 9
- -----------------------------------------------*/		
+ -----------------------------------------------*/
 .blog-holder9 {
 	width: 100%;
 	float: left;
@@ -1542,7 +1542,7 @@ grayscale layout Styles
 	color: #fff;
 }
 /* blog holder 10
- -----------------------------------------------*/	
+ -----------------------------------------------*/
 .blog-holder10 {
 	width: 100%;
 	float: left;
@@ -1568,7 +1568,7 @@ grayscale layout Styles
 
 /* Testimonials Style 6
  -----------------------------------------------*/
- 
+
 .testimonials6 {
 	width: 100%;
 	padding: 0px;
@@ -1585,7 +1585,7 @@ grayscale layout Styles
 }
 /* Tabs
  -----------------------------------------------*/
- 
+
 .tab-text-holder {
 	width: 100%;
 	padding: 60px;
@@ -1729,7 +1729,7 @@ Blog 1 layout Styles
 
 /* blog1 main background
  ------------------------------ */
- 
+
 .main-bg-1 {
 	width: 100%;
 	padding: 0px;
@@ -1741,7 +1741,7 @@ Blog 1 layout Styles
 }
 /* blog1 top header title
  ------------------------------ */
- 
+
 .header-title-box {
 	width: 100%;
 	padding: 150px 0;
@@ -1752,7 +1752,7 @@ Blog 1 layout Styles
 	font-size: 80px;
 }
 /* blog1 post holder
- ------------------------------ */	
+ ------------------------------ */
 .blog1-post-holder {
 	width: 100%;
 	padding: 0px;
@@ -1792,7 +1792,7 @@ Blog 1 layout Styles
 }
 /* blog1 sidebar box
  ------------------------------ */
- 
+
 .blog1-sidebar-box {
 	width: 100%;
 	padding: 0px;
@@ -1831,7 +1831,7 @@ Blog 1 layout Styles
 	background-color: #dbdc33;
 }
 /* blog1 sidebar input search
- ------------------------------ */ 
+ ------------------------------ */
 .blog1-sidebar-serch_input {
 	border: 1px solid #d9d9d9;
 	border-width: 1px 0 1px 1px;
@@ -1863,7 +1863,7 @@ Blog 1 layout Styles
 	background-color: #161616;
 }
 /* blog1 sidebar latest posts
- ------------------------------ */ 
+ ------------------------------ */
 .blog1-sidebar-posts {
 	width: 100%;
 	padding: 0px;
@@ -2164,7 +2164,7 @@ Cafe layout Styles
 	border: 1px solid #8b501f;
 	background: #8b501f url(../images/329.png) center center no-repeat;
 }
-/*============ blog styles ============ */	
+/*============ blog styles ============ */
 
 .blog-holder11 {
 	width: 100%;
@@ -2172,11 +2172,11 @@ Cafe layout Styles
 	transition: all 0.3s ease-out 0s;
 	background-color: #fff;
 }
-/*============ testimonials ============ */	
+/*============ testimonials ============ */
 
 /* Testimonials Style 8
  -----------------------------------------------*/
- 
+
 .beans-bg-holder {
 	width: 100%;
 	padding: 0px;
@@ -2351,7 +2351,7 @@ Fashion layout Styles
 }
 /*============ Team Section ============ */
 /* Team Style 12
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder12 {
 	width: 100%;
 	padding: 0px;
@@ -2922,7 +2922,7 @@ School layout Styles
 	border-radius: 2px;
 }
 /* Team Style 7 two
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder7.two {
 	overflow: hidden;
 	max-height: 490px;
@@ -2932,7 +2932,7 @@ School layout Styles
 	bottom: 150px;
 }
 /*full width buttons
- ------------------------------ */ 	
+ ------------------------------ */
 .full-btn-1 {
 	width: 100%;
 	padding: 20px 0;
@@ -3016,7 +3016,7 @@ Portfolio layout Styles
 
 /* Portfolio main background
  ------------------------------ */
- 
+
 .main-bg-2{
 	position:relative;
 	width:100%;
@@ -3028,10 +3028,10 @@ Portfolio layout Styles
 	background-position: top;
 	background: url(../images/background-1920x900.jpg) fixed top no-repeat;
 	}
-	
+
 /* blog1 top header title
  ------------------------------ */
- 
+
 .header-title-box-2 {
 	width: 100%;
 	padding: 100px 0;
@@ -3179,7 +3179,7 @@ Realestate layout Styles
 }
 
 /* Team Style 13
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder13 {
 	width: 100%;
 	padding: 0px;
@@ -3222,8 +3222,8 @@ Realestate layout Styles
 }
 
 /* categoriy list
- ------------------------------ */ 
- 
+ ------------------------------ */
+
 .category-list{
 	width:100%;
 	padding:0px;
@@ -3294,7 +3294,7 @@ Law layout Styles
 	color:#fff;
 	background-color:#242424;
 	}
-	
+
 /* Feature Box67
  ------------------------------ */
 .feature-box-67 {
@@ -3388,7 +3388,7 @@ Law layout Styles
 
 /*============ Team Section ============ */
 /* Team Style 14
- ------------------------------ */ 	
+ ------------------------------ */
 .team-holder14 {
 	width: 100%;
 	padding: 0px;
@@ -3638,14 +3638,14 @@ Shop layout Styles
 	margin:0px;
 	float:left;
 	}
-	
+
 .section-copyrights .social-icons-3.no-margin-left{
 	margin-left: 0;
 	}
 
 /* shop product review stars
  ------------------------------ */
- 	
+
 .product-review-stars span {
     color: #f43819;
 	float:right;
@@ -3703,7 +3703,7 @@ Shop layout Styles
 
 /* shop product review stars
  ------------------------------ */
- 
+
 .shop-product-holder {
 	 width:100%;
 	 padding:0px;
@@ -3749,7 +3749,7 @@ Shop layout Styles
 }
 
 /* shop sidebar latest posts
- ------------------------------ */ 
+ ------------------------------ */
 
 .blog1-sidebar-posts.red-4 .post-info i {
 	color: #f43819;
@@ -3760,7 +3760,7 @@ Shop layout Styles
 }
 
 /* Shop sidebar tags
- ------------------------------ */	
+ ------------------------------ */
 .shop-tags {
 	padding: 0px;
 	margin: 0px;
@@ -3871,8 +3871,8 @@ Agency layout Styles
 }
 
 /* Team Style 2 type two
- ------------------------------ */ 
- 
+ ------------------------------ */
+
 .team-holder2.two {
 	width: 100%;
 	padding: 0px;
@@ -4060,7 +4060,7 @@ charity layout Styles
 
 
 /* Team Style 14 stye two
- ------------------------------ */ 	
+ ------------------------------ */
 
 .team-holder14.two .image-holder .hover-box {
 	background-color: #42d1aa;
@@ -4198,7 +4198,7 @@ Personal layout Styles
 .personal-info.orange-2 li{
 	color:#fd602c;
 	padding-bottom:8px;
-	}	
+	}
 /* =========== parallax sections ============= */
 
 .parallax-section59 {
@@ -4343,29 +4343,29 @@ Medical layout Styles
 	    display:none;
 	}
 .feature-box-87 input[type=radio] + label:before {
-	    content: "";  
-	    display: inline-block;  
-	    width: 15px;  
-	    height: 15px;  
+	    content: "";
+	    display: inline-block;
+	    width: 15px;
+	    height: 15px;
 	    vertical-align:middle;
-	    margin-right: 8px;  
-	    background-color: #fff;  
-	    border-radius: 8px;  
+	    margin-right: 8px;
+	    background-color: #fff;
+	    border-radius: 8px;
 	}
 .feature-box-87 input[type=checkbox] + label:before {
-	    content: "";  
-	    display: inline-block;  
-	    width: 15px;  
-	    height: 15px;  
+	    content: "";
+	    display: inline-block;
+	    width: 15px;
+	    height: 15px;
 	    vertical-align:middle;
-	    margin-right: 8px;  
-	    background-color: #fff;  
-	    border-radius: 4px;  
+	    margin-right: 8px;
+	    background-color: #fff;
+	    border-radius: 4px;
 	}
 .feature-box-87 input[type=radio]:checked + label:before {
 		content: "\2022";
 		color:white;
-	    background-color: #2b2b2b; 
+	    background-color: #2b2b2b;
 		font-size:1.8em;
 		text-align:center;
 		line-height:14px;
@@ -4373,7 +4373,7 @@ Medical layout Styles
 .feature-box-87 input[type=checkbox]:checked + label:before {
 		content:"\2714";
 		color:white;
-	    background-color: #2b2b2b; 
+	    background-color: #2b2b2b;
 		text-align:center;
 		line-height:15px;
 	}
@@ -4402,7 +4402,7 @@ Medical layout Styles
 
 .feature-box-88:hover i {
 	color: #fff;
-}	
+}
 .feature-box-88:hover h5 {
 	color: #fff;
 }
@@ -4412,10 +4412,10 @@ Medical layout Styles
 	width: 100%;
 	padding:0;
 	float: left;
-}	
+}
 /* find button
  ------------------------------ */
- 
+
  .find-btn{
 	 width:100%;
 	 height:38px;
@@ -4427,8 +4427,8 @@ Medical layout Styles
  .find-btn:hover{
 	 background-color:#ccc;
 	 }
-	 
-	 
+
+
 /* =========== Medical timetable ============= */
 
 .classes-table-holder.medical {
@@ -4739,7 +4739,7 @@ ul.home-tld-list {
 	padding: 80px;
 	min-height: 485px;
 	background-color:rgba(0, 0, 0, 0.7);
-	
+
 }
 .feature-box-93 .image-holder {
 	position: absolute;
@@ -4778,14 +4778,14 @@ ul.home-tld-list {
 	width: 100%;
 	float: left;
 	padding:0px;
-	
+
 }
 .feature-box-94 .image-holder{
 	position:relative;
 	width: 100%;
 	float: left;
 	padding:0px;
-	
+
 }
 .feature-box-94 .image-holder .circle{
 	position: absolute;
@@ -4799,7 +4799,7 @@ ul.home-tld-list {
 	text-align:center;
 	border-radius:100%;
 	background-color:#8ac700;
-	
+
 }
 .feature-box-94 .image-holder .circle .arrow-down {
     border-top: 20px solid #8ac700;
@@ -4820,7 +4820,7 @@ ul.home-tld-list {
 	padding: 80px;
 	min-height: 420px;
 	background-color:rgba(138, 199, 0, 0.8);
-	
+
 }
 /* Feature Box96
  ------------------------------ */
@@ -4830,7 +4830,7 @@ ul.home-tld-list {
 	float: left;
 	padding: 80px;
 	min-height: 420px;
-	
+
 }
 /* Feature Box97
  ------------------------------ */
@@ -4838,25 +4838,25 @@ ul.home-tld-list {
 	width: 100%;
 	float: left;
 	padding: 0;
-	
+
 }
 .feature-box-97 .iconbox-small.blue{
 	background-color:#43c6f1;
 	color:#fff;
 	border:1px solid #43c6f1;
-	
+
 }
 .feature-box-97 .iconbox-small.red{
 	background-color:#ff5a11;
 	color:#fff;
 	border:1px solid #ff5a11;
-	
+
 }
 .feature-box-97 .iconbox-small.violet{
 	background-color:#b55ff7;
 	color:#fff;
 	border:1px solid #b55ff7;
-	
+
 }
 
 /* Feature Box98
@@ -4880,7 +4880,7 @@ ul.home-tld-list {
 
 /* Feature Box 100
  -----------------------------------------------*/
- 
+
 .feature-box-100 {
 	width:100%;
 	padding:40px;
@@ -4902,7 +4902,7 @@ ul.home-tld-list {
 
 /* Price Table 5
  -----------------------------------------------*/
- 
+
 .pricetable-holder5 {
 	position:relative;
 	width: 100%;
@@ -4999,7 +4999,7 @@ ul.home-tld-list {
 
 /* Price Table 6
  -----------------------------------------------*/
- 
+
 .pricetable-holder6 {
 	position:relative;
 	width: 100%;
@@ -5260,7 +5260,7 @@ ul.home-tld-list {
 /* =========== TLD Boxes ============= */
 /* tld boxes
  -----------------------------------------------*/
- 
+
 .tld-step-box {
 	position: relative;
 	width:100%;
@@ -5665,9 +5665,9 @@ ul.sitemap li ul {
     color: #242424;
 }
 
-/*	Corporate Blog pagenation 
+/*	Corporate Blog pagenation
  ------------------------------ */
- 
+
 .blog-pagenation {
     margin: 0;
     padding: 0;
